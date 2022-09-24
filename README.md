@@ -1,5 +1,5 @@
 # Deep k-Nearest Neighbour
-Experimenting with Deep k-Nearest Neighbour algorithm (https://arxiv.org/abs/1803.04765). This project contributions:
+Experimenting with Deep k-Nearest Neighbour algorithm  ("Deep k-Nearest Neighbors: Towards Confident, Interpretable and Robust Deep Learning" by Nicolas Papernot and Patrick McDaniel[1]). This project contributions:
 - improves its performance by testing with various algorithms for finding neighbours.
 - proposes a novice approach to enable DkNN to be used with more complex Neural Network's architechtures.
 - thorough testing with different levels of disstortions and datasets.
@@ -17,3 +17,5 @@ Reliability diagrams of CNN’s Softmax confidence and DkNN’s credibility:
 </div>
 
 ##### Please read report.pdf for details. 
+
+[1] https://arxiv.org/abs/1803.04765
